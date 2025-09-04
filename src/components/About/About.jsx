@@ -62,7 +62,7 @@ const About = () => {
             }}
           >
             RESUME
-          </a>
+          </a>{" "}
           <a
             href="https://leetcode.com/u/rishabhpandey30/"
             target="_blank"
@@ -74,7 +74,7 @@ const About = () => {
             }}
           >
             LEETCODE
-          </a>
+          </a>{" "}
           <a
             href="https://www.codechef.com/users/rp3012"
             target="_blank"
