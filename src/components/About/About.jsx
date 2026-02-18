@@ -30,7 +30,7 @@ const About = () => {
                 'Fullstack Developer',
                 'Problem Solver',
                 'Data Science Enthusiast',
-                'Coder',
+                '3 Star Coder on CodeChef',
               ]}
               loop={true}
               cursor
@@ -43,7 +43,7 @@ const About = () => {
 
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a full-stack developer, building scalable web applications. 
+            I am a Software Developer, building scalable solutions. 
             Skilled in both front-end and back-end development,
             I specialize in the MERN stack and other
             modern technologies to create seamless user experiences and
