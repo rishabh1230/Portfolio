@@ -1,12 +1,40 @@
-# React + Vite
+# Resume – Rishabh Pandey
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains my professional resume, highlighting my skills, projects, and experience as a Software Engineering student and Full-Stack Developer.
 
-Currently, two official plugins are available:
+## 📄 About Me
+I am a B.Tech student specializing in Software Engineering with hands-on experience in full-stack web development. I enjoy building scalable applications, learning new technologies, and contributing to real-world projects.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technical Skills
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Mobile Development:** Flutter, React Native (learning)
+- **Tools & Platforms:** Git, GitHub, Firebase, VS Code
+- **Core Concepts:** REST APIs, Authentication, MVC Architecture
 
-## Expanding the ESLint configuration
+## 🚀 Projects
+- **Weather Info Proxy API (MERN Stack)**  
+  Built a backend proxy service to fetch and manage weather data efficiently.
+  
+- **FrameVault**  
+  A full-stack application with secure authentication and structured data handling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Journal Application (Spring Boot + MongoDB)**  
+  REST-based backend service for managing journal entries.
+
+## 🎓 Education
+**B.Tech in Software Engineering**  
+Currently pursuing undergraduate studies with a strong focus on application development and problem-solving.
+
+## 📌 Resume
+You can view or download my resume from this repository or via the link below:  
+👉 **[Resume Link](ADD_YOUR_RESUME_LINK_HERE)**
+
+## 📫 Contact
+- **LinkedIn:** ADD_LINKEDIN_URL  
+- **GitHub:** https://github.com/YOUR_USERNAME  
+- **Email:** ADD_EMAIL_ADDRESS
+
+## 📜 License
+This repository is for personal and professional reference only.
