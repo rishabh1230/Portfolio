@@ -36,7 +36,7 @@ import abesLogo from './assets/educationlogo/abes.jpg';
 import ddpsLogo from './assets/educationlogo/ddps.jpeg';
 
 //project section images
-import framvaultImage from './assets/projlogo/framevault.png';
+import framvaultImage from './assets/projlogo/frameVault.png';
 import relocAIImage from './assets/projlogo/relocAI.jpeg';
 import skillsyncImage from './assets/projlogo/skillsync.png';
 import ayursutraImage from './assets/projlogo/Ayurshutra.png';
