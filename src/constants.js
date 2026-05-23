@@ -38,7 +38,7 @@ import ddpsLogo from './assets/educationlogo/ddps.jpeg';
 //project section images
 import framvaultImage from './assets/projlogo/frameVault.png';
 import relocAIImage from './assets/projlogo/relocAI.jpeg';
-import skillsyncImage from './assets/projlogo/skillsync.png';
+import skillsyncImage from './assets/projlogo/skillsync2.png';
 import ayursutraImage from './assets/projlogo/Ayurshutra.png';
 import ledgerlensImage from './assets/projlogo/leadgerlens.png';
 import virtualMouseImage from './assets/projlogo/virtualmouse.png';
