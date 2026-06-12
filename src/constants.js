@@ -138,7 +138,7 @@ export const education = [
        "Designed an event-driven smart collaboration engine that triggers notifications, feed prioritization, and collaboration suggestions based on user activity in near real-time."
         ],
       image: skillsyncImage,
-      tags: ["NestJs", "Microservices","PostgreSQL","Prisma", "RabbitMQ", "WebSockets", "Redis","Docker", "JWT"],
+      tags: ["NestJs", "Microservices","PostgreSQL","Prisma", "RabbitMQ", "WebSockets", "Redis","aws(s3)","Docker", "JWT"],
       github: "https://github.com/rishabh1230/SkillSync",
       webapp: "https://drive.google.com/file/d/1yUn-bc-I2Q7I0LpVRD4_v4twonSLvozr/view?usp=drivesdk",
     },
