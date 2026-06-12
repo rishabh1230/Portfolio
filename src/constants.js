@@ -38,7 +38,7 @@ import ddpsLogo from './assets/educationlogo/ddps.jpeg';
 //project section images
 import framvaultImage from './assets/projlogo/frameVault.png';
 import relocAIImage from './assets/projlogo/relocAI.jpeg';
-import skillsyncImage from './assets/projlogo/skillsync2.png';
+import skillsyncImage from './assets/projlogo/skillsync3.png';
 import ayursutraImage from './assets/projlogo/Ayurshutra.png';
 import ledgerlensImage from './assets/projlogo/leadgerlens.png';
 import virtualMouseImage from './assets/projlogo/virtualmouse.png';
@@ -140,7 +140,7 @@ export const education = [
       image: skillsyncImage,
       tags: ["NestJs", "Microservices","PostgreSQL","Prisma", "RabbitMQ", "WebSockets", "Redis","Docker", "JWT"],
       github: "https://github.com/rishabh1230/SkillSync",
-      webapp: "https://github.com/rishabh1230/SkillSync",
+      webapp: "https://drive.google.com/file/d/1yUn-bc-I2Q7I0LpVRD4_v4twonSLvozr/view?usp=drivesdk",
     },
     {
       id: 1,
