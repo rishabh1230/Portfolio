@@ -178,7 +178,7 @@ export const education = [
       image: ayursutraImage,
       tags: ["React JS", "Node.js", "firebase", "Express", "Tailwind CSS","JWT", "Google OAuth",],
       github: "https://github.com/rishabh1230/Ayursutra--Hopital-Management-System",
-      webapp: "https://ayushsutra-docter.vercel.app/login",
+      webapp: "https://ayushsutra-docter.vercel.app/",
     },
     {
       id: 4,
